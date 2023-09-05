@@ -1,0 +1,8 @@
+body {
+    background-color: pink !important;
+    color: grey;
+}
+
+#display {
+    margin-top: 20px;
+}
